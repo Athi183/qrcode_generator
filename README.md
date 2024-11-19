@@ -9,6 +9,7 @@ As part of the project, I followed best practices by creating a virtual environm
 ```bash
 python -m venv venv
 
+
 python -m: The -m flag tells Python to run a module as a script. In this case, the venv module is being run to create a virtual environment.
 venv (module): It is a built-in module in Python (starting from version 3.3) that provides the ability to create isolated environments for projects.
 venv (name): The second venv in the command is simply the name of the virtual environment directory you want to create. By convention, many developers use venv as its name.
