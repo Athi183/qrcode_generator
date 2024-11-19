@@ -46,10 +46,6 @@ pip install qrcode[pil]
 
 ---
 
-Here’s a brief breakdown of what your project accomplishes and the steps involved:
-
----
-
 ## **QR Code Generator: Key Features and Steps**  
 
 1. **Input Handling**:  
